@@ -29,7 +29,9 @@ pip install pywebview requests qrcode pillow keyring
 
 ### 运行
 
+```bash
 python SaveBili_Desktop.py
+```
 
 ### 使用说明
 
