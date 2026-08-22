@@ -1,6 +1,6 @@
 # SaveBili Desktop
 
-SaveBili Desktop 是一个基于 pywebview 的 B 站视频下载桌面应用。它提供了聊天式交互界面，支持扫码登录、多 Cookie 管理、视频预览、保存到本地等功能，界面采用毛玻璃与渐变风格。
+SaveBili Desktop 是一个基于 pywebview 和 SaveAny 的 B 站视频下载桌面应用。它提供了聊天式交互界面，支持扫码登录、多 Cookie 管理、视频预览、保存到本地等功能，界面采用毛玻璃与渐变风格。
 
 ## 功能特性
 
