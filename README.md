@@ -25,6 +25,7 @@ SaveBili Desktop 是一个基于 pywebview 的 B 站视频下载桌面应用。�
 
 ```bash
 pip install pywebview requests qrcode pillow keyring
+```
 
 ### 运行
 
