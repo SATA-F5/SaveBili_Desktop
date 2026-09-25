@@ -25,6 +25,7 @@ SaveBili Desktop 是一个基于 pywebview 和 SaveAny 的 B 站视频下载桌�
 127.0.0.1:10240
 ```
 
+
 ### 安装依赖
 
 ```bash
