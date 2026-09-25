@@ -20,6 +20,10 @@ SaveBili Desktop 是一个基于 pywebview 和 SaveAny 的 B 站视频下载桌�
 - Windows 10/11（其他平台暂未测试）
 - Python 3.10+（推荐 3.11 或 3.12）
 - Microsoft Edge WebView2 Runtime（Windows 11 通常已预装）
+- 如果WebView2 Runtime未安装或安装的版本过老，无法点击时，请使用
+```curl
+127.0.0.1:10240
+```
 
 ### 安装依赖
 
